@@ -12,9 +12,7 @@ VENV_ACTIVATE=. ${VENV_BIN}/activate
 PYTHON=${VENV_BIN}/python3
 
 # Need to list the images in build dependency order
-ALL_STACKS:=base-notebook \
-	illumidesk-notebook \
-	grader-notebook
+ALL_STACKS:=skkgsb-rstudio
 
 ALL_IMAGES:=$(ALL_STACKS)
 
@@ -24,7 +22,7 @@ HADOLINT="${HOME}/hadolint"
 help:
 # http://marmelab.com/blog/2016/02/29/auto-documented-makefile.html
 # http://github.com/jupyter/docker-stacks
-	@echo "illumidesk/docker-stacks"
+	@echo "illumidesk/skkgsb-stacks"
 	@echo "====================="
 	@echo "Replace % with a stack directory name (e.g., make build/base-notebook)"
 	@echo
