@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.1.0 (2021-02-25)
+
+
+### Features
+
+* First commit ([#2](https://github.com/IllumiDesk/illumidesk/issues/2)) ([d76a617](https://github.com/IllumiDesk/illumidesk/commit/d76a6178a9f20cced13e34307b2a0cf6244fe96e))
+
 ### [1.0.1](https://github.com/IllumiDesk/illumidesk/compare/v1.0.0...v1.0.1) (2020-10-25)
 
 * Adds `standard-version` to manage releases
