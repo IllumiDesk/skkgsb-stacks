@@ -11,7 +11,7 @@ psycopg2-binary==2.8.*
 nbconvert==5.*
 
 # additional python packages
-plotly==1.14.*
+plotly==4.14.*
 dash==1.19.*
 mlxtend==0.18.*
 sympy==1.7.*

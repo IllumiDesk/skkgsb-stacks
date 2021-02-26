@@ -2,14 +2,30 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [1.1.1](https://github.com/IllumiDesk/illumidesk/compare/v1.1.0...v1.1.1) (2021-02-26)
-
 ## 1.1.0 (2021-02-25)
 
+* Adds Python and R packages
 
-### Features
+Adds the following Python packages:
 
-* First commit ([#2](https://github.com/IllumiDesk/illumidesk/issues/2)) ([d76a617](https://github.com/IllumiDesk/illumidesk/commit/d76a6178a9f20cced13e34307b2a0cf6244fe96e))
+- plotly
+- dash
+- mlxtend
+- sympy
+- qgrid
+- linearmodels
+- sklearn-pandas
+- bokeh
+- pandas-datareader
+- fredapi
+- pandaSDMX
+- wrds
+
+Adds the following R packages:
+
+- fpp2
+- fma
+- prophet
 
 ### [1.0.1](https://github.com/IllumiDesk/illumidesk/compare/v1.0.0...v1.0.1) (2020-10-25)
 
