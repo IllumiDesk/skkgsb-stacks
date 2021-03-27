@@ -42,6 +42,7 @@ RUN apt-get update && \
     locales \
     gfortran \
     gcc \
+    octave \
     r-cran-rodbc \
     run-one \
     sudo \
