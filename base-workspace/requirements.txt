@@ -23,3 +23,6 @@ pandas-datareader==0.9.*
 fredapi==0.4.*
 pandaSDMX==1.4.*
 wrds==3.0.*
+PyPortfolioOpt==1.4.*
+cvxpy==1.1.*
+oct2py==5.2.*
